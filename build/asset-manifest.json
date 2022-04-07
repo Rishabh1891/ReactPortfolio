@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba98c1e2.css",
+    "main.js": "/static/js/main.29e68d35.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Archi.png": "/static/media/Archi.02f01c309899bc740e34.png",
+    "static/media/Shoe.png": "/static/media/Shoe.c37e0dbaf45ded2e7076.png",
+    "static/media/Travel.png": "/static/media/Travel.489f3b7778a254e13cbd.png",
+    "static/media/Quiz.png": "/static/media/Quiz.a4ad1415b9ffecd99c2a.png",
+    "static/media/Weather.png": "/static/media/Weather.ed506250e74f27611fd2.png",
+    "static/media/Dash.png": "/static/media/Dash.9d778a0ac6540824a53d.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Resume.pdf": "/static/media/Resume.6c24b6c4e6404acf63d7.pdf",
+    "static/media/mainlogo.jpg": "/static/media/mainlogo.82e0a6a555e1ec66182f.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/Love page.png": "/static/media/Love page.a1200d9f1ae419a8b0dd.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.ba98c1e2.css.map": "/static/css/main.ba98c1e2.css.map",
+    "main.29e68d35.js.map": "/static/js/main.29e68d35.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba98c1e2.css",
+    "static/js/main.29e68d35.js"
+  ]
+}
