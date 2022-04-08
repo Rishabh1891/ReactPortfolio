@@ -7,6 +7,9 @@ import {
   DiCss3,
   DiMaterializecss,
   DiGit,
+  DiBootstrap,
+  DiCoda,
+  DiGoogleDrive
 } from "react-icons/di";
 import {
   SiGithub,
@@ -31,6 +34,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMaterializecss />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGoogleDrive />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
