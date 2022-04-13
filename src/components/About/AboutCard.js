@@ -27,6 +27,9 @@ function AboutCard() {
               <ImPointRight /> Exercise & Yoga
             </li>
             <li className="about-activity">
+              <ImPointRight /> Detective
+            </li>
+            <li className="about-activity">
               <ImPointRight /> स्वराज्य धर्म रक्षणार्थ ।
             </li>
           </ul>

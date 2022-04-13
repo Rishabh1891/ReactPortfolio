@@ -47,7 +47,7 @@ function Projects() {
               imgPath={Love}
               isBlog={false}
               title="Encrypted Love Message For Couple"
-              description="Privacy stands as big concern in the life of a couple. So with this one, You can easily write your message with an Encryption of Passcode that can be only accessed by your targetted person.(UNDER NEAT DEVELOPMENT)."
+              description="Privacy stands as big concern in the life of a couple. So with this one, You can easily write your message with an Encryption of Passcode that can be only accessed by your targetted person."
               link="https://condescending-beaver-638fa0.netlify.app/"
             />
           </Col>
@@ -66,8 +66,8 @@ function Projects() {
             <ProjectCard
               imgPath={Quiz}
               isBlog={false}
-              title="Anti-Cheat Test"
-              description="By Undertaking the Modern cheating Problems in Online mode exams, i've been constructed this app which will prevent students to shift tab, Taking Class & Messages, closing the Window, Copy Pasting, Split Screen use Etc."
+              title="गुरु द्रोणाचार्य (Anti-Cheat Test)"
+              description="By Undertaking the Modern cheating Problems in Online mode exams, i've been constructed this app which will prevent students to shift tab, Taking Class & Messages, closing the Window, Copy Pasting, Split Screen use Etc.(POWERED BY: EDUCATION DEPARTMENT HARYANA.GOV)"
               link="https://anticheat.pages.dev/"
             />
           </Col>

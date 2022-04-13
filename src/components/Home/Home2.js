@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with Development and coding and I have learnt Several things, With Blessings… 👼
               <br />
-              <br />I am fluent in almost all kinds
+              <br />I am fluent in almost all kinds of
               <i>
                 <b className="purple"> Front-End Fundamental Technologies. </b>
               </i>

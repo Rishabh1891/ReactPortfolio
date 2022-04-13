@@ -9,7 +9,7 @@ function Type() {
           "Front-End Engineer",
           "React.Js Developer",
           "Blog Penman",
-          "Web Performance Comptroller",
+          "Web Performance",
         ],
         autoStart: true,
         loop: true,
