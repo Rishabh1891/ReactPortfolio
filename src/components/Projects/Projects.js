@@ -66,8 +66,9 @@ function Projects() {
             <ProjectCard
               imgPath={Quiz}
               isBlog={false}
-              title="गुरु द्रोणाचार्य (Anti-Cheat Test)"
-              description="By Undertaking the Modern cheating Problems in Online mode exams, i've been constructed this app which will prevent students to shift tab, Taking Class & Messages, closing the Window, Copy Pasting, Split Screen use Etc.(POWERED BY: EDUCATION DEPARTMENT HARYANA.GOV)"
+              title="द्रोण (Anti-Cheat Test)"
+              description="By Undertaking the Modern cheating Problems in Online mode exams, i've been constructed this app which will prevent students to shift tab, Taking Class & Messages, closing the Window, Copy Pasting, Split Screen use Etc.
+              (POWERED BY: EDUCATION DEPARTMENT HARYANA.GOV)"
               link="https://anticheat.pages.dev/"
             />
           </Col>
