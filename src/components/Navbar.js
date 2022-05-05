@@ -12,6 +12,7 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillBook
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -91,6 +92,9 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
+
+          
+         
 
           
 

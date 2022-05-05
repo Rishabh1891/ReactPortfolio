@@ -9,7 +9,7 @@ import Shoe from "../../Assets/Projects/Shoe.png";
 import Quiz from "../../Assets/Projects/Quiz.png";
 import Archi from "../../Assets/Projects/Archi.png";
 import Weather from "../../Assets/Projects/Weather.png";
-
+import chat from "../../Assets/Projects/chatapp.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -90,6 +90,16 @@ function Projects() {
               title="Weather Report (React JS.)"
               description="A nice Weather Teller Android / IOS Application which has the ability to tell you weather of all across the world and all over the continents easily in one click."
               link="https://dreamy-liskov-3bae94.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chat}
+              isBlog={false}
+              title="Chat App (React JS.)"
+              description="I got inspired by Facebook messenger and tried to make a clone of the messenger cortez. Usually applicable on all devices and helpful for single person chat with Encryption."
+              link="https://pre-kalam.netlify.app/"
             />
           </Col>
 
