@@ -29,6 +29,7 @@ function NavBar() {
     }
   }
 
+
   window.addEventListener("scroll", scrollHandler);
 
   return (
@@ -92,11 +93,6 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
-
-          
-         
-
-          
 
             <Nav.Item className="fork-btn">
               <Button

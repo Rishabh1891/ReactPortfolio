@@ -10,6 +10,9 @@ import Quiz from "../../Assets/Projects/Quiz.png";
 import Archi from "../../Assets/Projects/Archi.png";
 import Weather from "../../Assets/Projects/Weather.png";
 import chat from "../../Assets/Projects/chatapp.png";
+import Expenses from "../../Assets/Projects/Expenses.png";
+import Gpt3 from "../../Assets/Projects/Gpt3.png";
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -100,6 +103,25 @@ function Projects() {
               title="Chat App (React JS.)"
               description="I got inspired by Facebook messenger and tried to make a clone of the messenger cortez. Usually applicable on all devices and helpful for single person chat with Encryption."
               link="https://pre-kalam.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Expenses}
+              isBlog={false}
+              title="Expenses Monitor. - (Web App.)"
+              description="Now you can manage, track and keep the record of your monthly expenses, spendings and savings in one platform. Track down where your money is being invested and how much profit you are gaining with this easily."
+              link="https://expense-meter.netlify.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Gpt3}
+              isBlog={false}
+              title="GPT-3 AI Page (React JS.)"
+              description="(AN CLIENT PRODIGY) An AI representative Landing page Paid challenge from An Internation Client made with complete React and React / Icon Ri."
+              link="https://gpt-3aiconcept.netlify.app/"
             />
           </Col>
 
