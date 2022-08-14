@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 import logo from "../Assets/mainlogo.jpg";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import { CgMailOpen } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
@@ -96,11 +96,11 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="mailto:rishabhtripathi2001@rediffmail.com"
+                href="mailto:Rishabhtripathi2001@proton.me"
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
+                <CgMailOpen style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
             </Nav.Item>
