@@ -19,9 +19,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with Development and coding and I have learnt Several things, With Blessings… 👼
+            Love to Code because it taught me not to give up ever. Trying my best to provide companies andorganizations
+            with best modern Technologies and serving users contemporary feel in their phoneand digital
+            devices along best Materials of coding and language
+            I fell in love with Development and coding and I have learnt Several things, With Blessings… 👼
               <br />
-              <br />I am fluent in almost all kinds of
+              <br />I'm fluent in almost all kinds of
               <i>
                 <b className="purple"> Front-End Fundamental Technologies. </b>
               </i>

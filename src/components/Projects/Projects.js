@@ -11,8 +11,7 @@ import Archi from "../../Assets/Projects/Archi.png";
 import Weather from "../../Assets/Projects/Weather.png";
 import chat from "../../Assets/Projects/chatapp.png";
 import Expenses from "../../Assets/Projects/Expenses.png";
-import Gpt3 from "../../Assets/Projects/Gpt3.png";
-
+import Hoob from "../../Assets/Projects/Hoob.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -117,11 +116,12 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Gpt3}
+              imgPath={Hoob}
               isBlog={false}
-              title="GPT-3 AI Page (React JS.)"
-              description="(AN CLIENT PRODIGY) An AI representative Landing page Paid challenge from An Internation Client made with complete React and React / Icon Ri."
-              link="https://gpt-3aiconcept.netlify.app/"
+              title="HooBank WebApp (Figma to React JS.)"
+              description="A best practice on Application like this which is completely responsive on all kinds of viewports of devices
+              I've take this idea from a figma post designer and that took me around four days to come up with the final productions."
+              link="https://a6afb4e6.hoobank.pages.dev/"
             />
           </Col>
 

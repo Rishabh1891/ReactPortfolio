@@ -8,13 +8,11 @@ import {
   DiMaterializecss,
   DiGit,
   DiBootstrap,
-  DiCoda,
   DiGoogleDrive
 } from "react-icons/di";
 import {
   SiGithub,
-  SiFirebase,
-  SiNextdotjs,
+  SiTailwindcss,
 } from "react-icons/si";
 
 function Techstack() {
@@ -37,6 +35,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGoogleDrive />
