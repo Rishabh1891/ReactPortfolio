@@ -12,6 +12,7 @@ import Weather from "../../Assets/Projects/Weather.png";
 import chat from "../../Assets/Projects/chatapp.png";
 import Expenses from "../../Assets/Projects/Expenses.png";
 import Hoob from "../../Assets/Projects/Hoob.png";
+import Chandra from "../../Assets/Projects/Chandra.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -122,6 +123,17 @@ function Projects() {
               description="A best practice on Application like this which is completely responsive on all kinds of viewports of devices
               I've take this idea from a figma post designer and that took me around four days to come up with the final productions."
               link="https://a6afb4e6.hoobank.pages.dev/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Chandra}
+              isBlog={false}
+              title="Chandra Cafe | LoFi & Coffee"
+              description="Imaginary Start up idea into brain to build a website which contains animation and user interactivity.
+              The unique thing about this website is it can track your location after granting it permission of your location and will suggest you coffee
+              according to your weather and location."
+              link="https://chaandcafe.netlify.app/"
             />
           </Col>
 
